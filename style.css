@@ -1,0 +1,59 @@
+body {
+	background: #f0ede5;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.logo {
+	font-size: 30px;	
+	text-align: center;
+	color: #c0ab8e;
+}
+
+form {
+	width: 50%;
+	margin: 30px auto;
+	background: #f0ede5;
+	padding: 10px;
+}
+ 
+form p {
+	color: red;
+	margin: 0px;
+}
+.task_input {
+	width: 73%;
+	height: 15px;
+	padding: 10px;
+}
+
+.task_button {
+	height: 39px;
+	background: #f0ede5;
+	color: #c0ab8e;
+	padding: 5px 20px;
+}
+table {
+	background: #f0ede5;
+	width:50%;
+	margin:30px auto;
+}
+
+th {
+	font-size: 19px;
+	color: #c0ab8e;
+}
+th, td{
+	height: 30px;
+	padding: 2px;
+}
+
+.task {
+	text-align: left;
+}
+.delete {
+	text-align: center;
+}
+.delete a {
+	color: white;
+	background: #A52A2A;
+	padding: 1px 6px;
+}
